@@ -68,7 +68,7 @@ if "graph" not in st.session_state or st.session_state.get("_model") != model_na
 
 
 # ── Header ──────────────────────────────────────────────────────────────────
-st.title("🤖 Multi-Tool AI Assistant")
+st.title("🤖 Multi-Tool AI Chatbot")
 st.caption("Ask anything — I can search **Arxiv**, **Wikipedia**, and the **Web** for you.")
 
 
